@@ -1,2 +1,2 @@
 # Social-Networking-App
-Demonstration of social networking app similar to Reddit or Twitter.
+Full-stack social networking app similar to Reddit or Twitter.
